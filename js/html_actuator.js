@@ -31,8 +31,8 @@ dogeSayings = [
   'Lisään avauskokoonpanoon!',
 
   // Huudahduksia
-  'Kymppi tulee!', // Ihan varmaan
-  'Kurssista läpi!',
+  'pum pum', // Ihan varmaan
+  'RK MENI PASKAKS',
   'Keskiarvo nousee!',
   'Helppoo ku mikä!', // Ja paskat
   'Isänmaan tulevaisuus!',
@@ -44,7 +44,7 @@ dogeSayings = [
   // Tunteja
   'Köksää!',
   'Matikkaa!',
-  'Ruåtsia ┌∩┐(ಠ_ಠ)┌∩┐',
+  '',
   'Ruokailu!',
   'Fysiikan tunnille!',
   'Kuvista!'
